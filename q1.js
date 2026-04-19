@@ -1,3 +1,4 @@
+//Variable Declarations
 const myName = "Ndifreke Udoh";
 let myAge = 27;
 isStudent = false;
